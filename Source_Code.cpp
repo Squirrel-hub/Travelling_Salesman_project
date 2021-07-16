@@ -4,7 +4,7 @@ Name - Kaizer Rahman , Roll No. - 19IE10044
 Topic - Algorithms 1 Term Project
 */
 
-#include <iostream>
+#include <bits/stdc++.h>
 #include <math.h>
 using namespace std;
 
